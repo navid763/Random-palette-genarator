@@ -120,3 +120,14 @@ span {
   border-radius: 4px;
   font-weight: 600;
 }
+
+@media (max-width: 516px) {
+  .item-div p {
+    font-size: 0.75em;
+  }
+
+  .guide {
+    font-size: 0.7em;
+    text-align: center;
+  }
+}
